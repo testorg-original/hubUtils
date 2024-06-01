@@ -3,7 +3,7 @@ test_that("Schema URL created successfully", {
   expect_true(valid_url(schema_url))
   expect_equal(
     schema_url,
-    "https://raw.githubusercontent.com/Infectious-Disease-Modeling-Hubs/schemas/main/v0.0.1/tasks-schema.json"
+    "https://raw.githubusercontent.com/testorg-original/schemas/main/v0.0.1/tasks-schema.json"
   )
 })
 
