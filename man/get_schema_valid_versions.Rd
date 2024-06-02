@@ -8,12 +8,12 @@ get_schema_valid_versions(branch = "main")
 }
 \arguments{
 \item{branch}{The branch of the Infectious Disease Modeling Hubs
-\href{https://github.com/testorg-original/schemas}{schemas repository}
+\href{https://github.com/testorg-rename/schemas}{schemas repository}
 from which to fetch schema. Defaults to \code{"main"}.}
 }
 \value{
 a character vector of valid versions of Infectious Disease Modeling Hubs
-\href{https://github.com/testorg-original/schemas}{schema}.
+\href{https://github.com/testorg-rename/schemas}{schema}.
 }
 \description{
 Get a vector of valid schema version

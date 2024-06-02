@@ -1,15 +1,15 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# hubUtils <a href="https://testorg-original.github.io/hubUtils/"><img src="man/figures/logo.png" align="right" height="131" alt="hubUtils website" /></a>
+# hubUtils <a href="https://testorg-rename.github.io/hubUtils/"><img src="man/figures/logo.png" align="right" height="131" alt="hubUtils website" /></a>
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/testorg-original/hubUtils/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/testorg-original/hubUtils/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/testorg-rename/hubUtils/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/testorg-rename/hubUtils/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![Codecov test
-coverage](https://codecov.io/gh/testorg-original/hubUtils/branch/main/graph/badge.svg)](https://app.codecov.io/gh/testorg-original/hubUtils?branch=main)
+coverage](https://codecov.io/gh/testorg-rename/hubUtils/branch/main/graph/badge.svg)](https://app.codecov.io/gh/testorg-rename/hubUtils?branch=main)
 <!-- badges: end -->
 
 The goal of `hubUtils` is to provide a set of utility functions for
@@ -21,7 +21,7 @@ Infectious Disease Modeling Hubs
 You can install the development version of `hubUtils` like so:
 
 ``` r
-remotes::install_github("testorg-original/hubUtils")
+remotes::install_github("testorg-rename/hubUtils")
 ```
 
 ------------------------------------------------------------------------

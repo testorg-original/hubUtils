@@ -10,7 +10,7 @@ get_schema_version_latest(schema_version = "latest", branch = "main")
 \item{schema_version}{A character vector. Either "latest" or a valid schema version.}
 
 \item{branch}{The branch of the Infectious Disease Modeling Hubs
-\href{https://github.com/testorg-original/schemas}{schemas repository}
+\href{https://github.com/testorg-rename/schemas}{schemas repository}
 from which to fetch schema. Defaults to \code{"main"}.}
 }
 \value{
